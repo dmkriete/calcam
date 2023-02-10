@@ -1,0 +1,11 @@
+name: calcam_test
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - opencv
+  - pyqt
+  - vtk
